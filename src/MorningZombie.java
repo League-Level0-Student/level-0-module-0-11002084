@@ -14,7 +14,7 @@ public static void main(String[] args) {
 	JOptionPane.showMessageDialog(null, "Steal neighbor's bike and bike to Ferrari dealership");
 	JOptionPane.showMessageDialog(null, "Hotwire a Ferrari");
 	JOptionPane.showMessageDialog(null, "Get into a police chase");
-	JOptionPane.showMessageDialog(null, "Drive to US-Mexican border");
+	JOptionPane.showMessageDialog(null, "Drive to US-Mexico border");
 	JOptionPane.showMessageDialog(null, "Smash through border fence");
 	JOptionPane.showMessageDialog(null, "Get chased by border control and Mexican police");
 	JOptionPane.showMessageDialog(null, "Drive to a port");
